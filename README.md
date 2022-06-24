@@ -1,34 +1,53 @@
 
-# Canon.com/ijsetup 
+# Ij.Start.Canon Setup
 
 
-[![canon.com/ijsetup](Get-Started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![canon ijsetup](Get-Started.png)](#)
 
 
 
-There are various methods of connecting the Canon ij printers to various devices. But we will see the one method which is very easy to activate the canon ij setup. Following are the points that come under the Ij canon setup activation process:-
+ij.start.canon means to start the canon inkjet printer's driver setup. There are softwares designed by the engineers of canon to make use of the printer in easier ways. Canon printers are most unique among themselves as compared to the other printers. They have unique and exciting features such as fast and clear printing, faxing, scanning, and many advanced facilities. Nowadays, the printers are available in wireless modes too. The wireless printers are connected through the router system, and the printout is taken through it. Canon provides printers in the form of laser jet and inkjet.
 
-## What comes under Ij start canon setup activation process?
-1. To download the Driver, you need to open the browser first.
-2. Then in the search tab of the browser, type the link [canon.com/ijsetup](https://iijprinters.github.io/)
-3. Then search for the link.
-4. Now the Home page of the official website of canon ij printer will appear.
-5. On the home page of canon, you will see the Setup option.
-6. Click on it.
-7. Then the next page will appear.
-8. On the next page, you will have to select the model number or a serial number of your printer.
-9. There you can directly enter the model number if you know the number.
-10. Or below that, you can select the model number by selecting the alphabetical method.
-11. After selecting the model number, click on the Go option.
-12. Then the next page will appear.
-13. You need to select the device you want to download the Driver, for example, for Windows.
-14. Then below that, you will see the Download option.
-15. Click on it.
-16. Then downloading of the canon Ij setup will begin.
-17. Wait for a while.
-18. Then open the setup and run the setup.
-19. That's it; downloading of canon Ij setup driver or software is successful.
+## Shortcut process for the installation of the ij. Start. Canon:
+Step 1: First of all, unbox your printer from its box and make sure that all the components are available in proper condition.
+Step 2: Turn on your printer, as well as make sure that the printer runs appropriately.
+Step 3: Press the wifi button present on your printer till it blinks. This will turn on your wifi settings, and the printer will be ready for the wireless connection.
+Step 4: For the wired connection, join the printer with the USB wire and then turn on both devices.
+Step 5: Go to the official website of canon printers and download the driver file setup by entering the model number.
+Step 6: Follow some simple steps on your device to install the driver. Here make sure that your printer is connected to the device on which the software is being installed.
 
+
+## Detailed process of the ij start canon setup:
+The above given was a shortcut process of installing the canon setup, and now we are going to see the details inside those six steps;
+# Wireless setup in the canon printer to connect it with a windows device:
+A wireless connection requires a device named a router. Turn on your router device and then turn on your canon printer. After this, press the wifi button (This button may be transparent or different from other buttons) for a long time until it blinks. As soon as the blinking starts, go to the settings menu and select the network configuration setting among various other options. This will show multiple options such as wireless connections, Wlan, and many more. Select the wireless option and then continue with it. After restarting, you will reach the list of references available. Select your connection. Enter the password, and then the connection is established successfully. At the other end, connect your device to the same router.
+The process will be similar for the Mac as well as Android devices.
+
+# Wired connection with downloading the driver software on the windows device:
+A wired connection is simple as the user only needs to plug in the wire to the device. There is a USB two-way wire available with the [ij.start.canon](https://can0onij.github.io/) printer box. Unbox the wire and connect the ends to the respective ports—one to the canon printer and another to the device. Make sure of the connectivity of the device by visiting the devices panel of your pc. The device panel is located in the control panel of your device. 
+After all, the connection stuff lets us move towards the downloading of the software file. For downloading the software file, visit the website [ij.start.canon](https://can0onij.github.io/). This website will take you to the page of the model number of your printer when you click on the setup button. The model number page contains three methods to download the software suitable for your printer. The methods include
+
+1. Direct entering the model number of you ij start canon setup printer.
+2. Select the printer by looking at the pictures and model number given.
+3. By selecting the initial two letters of your printer.
+
+
+Now, after selecting any one of your printer models, you must click on the continue button. After this, select the operating system as windows(For Mac, select the Mac OS), then click on the agreement displayed on your screen. Now press the download button, and your file will get downloaded on your device. This file will be a zip file and will need to extract first to continue the installation process. The downloading process in Windows and MacMac will be similar and will not require any extraordinary steps.
+
+
+Pre-installing instructions for the [ij.start.canon](https://can0onij.github.io/) printer:
+Following are the instructions before installing the Canon printer file;
+1. Make sure your internet is on as many files will download in the process.
+2. Make sure that there is a stable connection between your device as well as the [ij.start.canon](https://can0onij.github.io/) printer.
+3. Your device must be quite compatible enough for the software installation.
+4. Turn on your printer or wake up if the printer is going to sleep.
+5. Finally, follow the detailed process of building as given below.
+
+
+# Installation process for the ij start canon setup to follow on your windows as well as Mac device:
+following are the steps explaining the installation procedure for the windows as well as for the mac device regarding [ij.start.canon](https://can0onij.github.io/) printer setup;
+First of all, you will have the file, which is in a zip state. This is because it downloads the file faster. Unzip the file using your device's inbuilt unzipping software. Either double-click on the unzipped file or right-click on it and then open the file. For the windows device, you will get a notification regarding permission for installation. Here there will be a yes button. (While in the Mac device, you will get the continue button) by just clicking on the continue button, you will reach the setup window. Or simply, the setup window will appear in your front. Now the detection of the printer will take place. In this process, the software will verify whether you are connected to the same printer to which the software belongs. Then after detecting it will download the necessary files according to the device.
+The software downloading will require a stable as well as fast internet connection. Make sure that the link does not disconnect. After this, click on the recommended settings of the software to install. You can also select the custom button if you want some of the files not to install. Bu is selecting click on the Next button (For Mac, select the continue button). After this, the software will start to install the file. This will require some amount of time. Please wait till the installation process ends, and as soon as it completes, the finish button will appear. Click on the finish button, and the file is now utterly present on your device. Restart your device. Go to the start menu. Select the icon of the [ij.start.canon](https://can0onij.github.io/) and open it to use the software.
 
 ## The process to download the Ij canon printer driver or software or application
 1. After downloading the setup, open the setup.
@@ -106,4 +125,4 @@ There are various methods of connecting the Canon ij printers to various devices
 19. Then you will receive a message from the printer; there, click on the Ok option.
 20. Now select the printer which you want to connect.
 21. Then go for a test print from your printer using the tablet and mobile phone.
-22. That's it, and you are done with the connectivity process of mobile phone and tablet with the Ij start canon setup printer.
+22. That's it, and you are done with the connectivity process of mobile phone and tablet with the [ij start canon](https://can0onij.github.io/) printer.
