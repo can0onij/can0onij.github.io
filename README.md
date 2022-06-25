@@ -2,7 +2,7 @@
 # Ij.Start.Canon Setup
 
 
-[![canon ijsetup](Get-Started.png)](#)
+[![canon ijsetup](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
 
 
